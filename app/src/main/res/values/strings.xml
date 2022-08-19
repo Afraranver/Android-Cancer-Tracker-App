@@ -1,0 +1,44 @@
+<resources>
+    <array name="Specialists">
+        <item>Leukemia Cancer</item>
+        <item>Sarcomas Cancer</item>
+        <item>Emergency Medicine Specialists</item>
+        <item>Carcinoma Cancer</item>
+        <item>Lymphomas Cancer</item>
+        <item>Melanoma Cancer</item>
+        <item>Skin Cancer</item>
+        <item>Bone Cancer</item>
+    </array>
+    <array name="Doctors">
+        <item>Dr. Ethan Goff</item>
+        <item>Dr. Gilbert Haberman</item>
+        <item>Dr. Isaac Milholland</item>
+        <item>Dr. Brooklyn Brazzel</item>
+        <item>Dr. Josie Prue</item>
+    </array>
+    <array name="DocNum">
+        <item>60105556423</item>
+        <item>60125559012</item>
+        <item>60155553856</item>
+        <item>60155551223</item>
+        <item>60185552712</item>
+    </array>
+
+    <array name="Symptoms">
+        <item>Dizziness</item>
+        <item>Breathlessness and Difficulty Breathing (Dyspnoea)</item>
+        <item>Tiredness (Fatigue)</item>
+        <item>Addisons Disease</item>
+        <item>Chest Pain</item>
+        <item>Right Lower Quadrant Pain</item>
+        <item>Abdominal Pain</item>
+        <item>Arm Pain</item>
+        <item>Body Aches</item>
+        <item>Breathing Difficulty</item>
+
+    </array>
+
+    <string name="birthday">birthday</string>
+
+    <string name="app_name">Cancer Track</string>
+</resources>

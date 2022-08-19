@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40680596556",
+    "project_id": "cancer-track",
+    "storage_bucket": "cancer-track.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40680596556:android:d56a2a3ae186b22ef240e9",
+        "android_client_info": {
+          "package_name": "com.example.cancer_track"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40680596556-e3hjtetg6ulvadj7965lgfr2l0l3qr3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQETmP6M_roGiDfUkbnK1Ruw5sZ-eOhr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40680596556-e3hjtetg6ulvadj7965lgfr2l0l3qr3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
